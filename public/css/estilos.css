@@ -1,0 +1,25 @@
+.row {
+    background-color: rgb(39, 227, 224);
+    border: 5px solid royalblue;
+    border-radius: 1em;
+}
+
+label {
+    display: block;
+}
+
+#nombre, #destino {
+    width: 40%;
+}
+
+#encabezado{
+    padding: 2rem;
+}
+
+body{
+    background-color: aliceblue;
+}
+
+button{
+    margin-right: 1em;
+}
